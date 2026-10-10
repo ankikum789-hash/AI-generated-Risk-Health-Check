@@ -1,0 +1,6 @@
+{
+  "name": "StratRisk Advisory — Fintech & Digital Lending Risk Diagnostic & Advisory Platform",
+  "description": "Executive risk advisory platform for fintech & digital lender founders and CEOs. Featuring 5-domain risk health checks, predictive stress testing, automated fraud alerts, and multi-jurisdiction advisory workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
